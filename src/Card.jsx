@@ -6,7 +6,7 @@ const Card = (props) => {
         <>
             <div className="col-md-4 col-10 mx-auto">
                 <div className="card">
-                    <img src={props.imgscr} alt="Card Image" className="card-img-top" />
+                    <img src={props.imgsrc} alt="Card Image" className="card-img-top" />
                     <div className="card-body">
                         <h5 className="card-title font-weight-bold">{props.title}</h5>
                         <p className="card-text">

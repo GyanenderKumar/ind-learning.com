@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ind-learning.com/static/css/main.42ba92ed.chunk.css",
+    "main.js": "/ind-learning.com/static/js/main.42df916f.chunk.js",
+    "main.js.map": "/ind-learning.com/static/js/main.42df916f.chunk.js.map",
+    "runtime-main.js": "/ind-learning.com/static/js/runtime-main.2fd19b0a.js",
+    "runtime-main.js.map": "/ind-learning.com/static/js/runtime-main.2fd19b0a.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/ind-learning.com/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.f9d9838b.chunk.js": "/ind-learning.com/static/js/2.f9d9838b.chunk.js",
+    "static/js/2.f9d9838b.chunk.js.map": "/ind-learning.com/static/js/2.f9d9838b.chunk.js.map",
+    "index.html": "/ind-learning.com/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/ind-learning.com/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.42ba92ed.chunk.css.map": "/ind-learning.com/static/css/main.42ba92ed.chunk.css.map",
+    "static/js/2.f9d9838b.chunk.js.LICENSE.txt": "/ind-learning.com/static/js/2.f9d9838b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2fd19b0a.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.f9d9838b.chunk.js",
+    "static/css/main.42ba92ed.chunk.css",
+    "static/js/main.42df916f.chunk.js"
+  ]
+}
